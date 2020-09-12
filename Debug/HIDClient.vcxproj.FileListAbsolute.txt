@@ -1,0 +1,4 @@
+F:\VCProjects\HIDClient\Debug\HIDClient.exe
+F:\VCProjects\HIDClient\Debug\HIDClient.pdb
+F:\chy-code_git\HIDClient\Debug\HIDClient.exe
+F:\chy-code_git\HIDClient\Debug\HIDClient.pdb

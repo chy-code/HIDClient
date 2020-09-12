@@ -1,0 +1,2 @@
+F:\VCProjects\HIDClient\Release\HIDClient.exe
+F:\chy-code_git\HIDClient\Release\HIDClient.exe
